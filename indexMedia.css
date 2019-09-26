@@ -1,0 +1,327 @@
+@media (max-width:1072px){
+    body{
+        background-color: yello;
+    }
+    .head-adjust{
+        font-size: 30px;
+    }
+    .my-text {
+        width: 400px;
+      }
+      .input-btn{
+          width: 13rem;
+          font-size: .6rem;
+          line-height: 1.5rem;
+      }
+      .connect-text {
+        font-size: 18px;
+      } 
+      .fab {
+          font-size: 14px;
+      }
+}
+ 
+@media only screen and (min-height: 766px) and (min-width: 1020px){
+    body{
+        background-color: greenyello;
+    }
+    .wrapper {
+        height: 58vh;
+    }
+    .btn-wrapper {
+        margin-top: 59px;
+    }
+    .img-con {
+        height: 58vh;
+    }
+    .bg-img {
+        height: 58vh;
+    }
+    .connect-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .my-img-text {
+        left: 4rem;
+        top: 43rem;
+    }
+    .my-arrow{
+        right: 2rem;
+        top: 45rem;
+    }
+}
+@media only screen and (min-width: 766px) and (max-width: 769px) and (min-height: 1020px) and (max-height: 1025px){
+    body{
+        background-color: darkorang;
+    }
+    .connect-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .my-img-text{
+        left: 3rem;
+        top: 43rem;
+    }
+    .my-arrow{
+        right: 1rem;
+        top: 44rem;
+    }
+}
+@media (max-width:900px){
+    body{
+        background-color: blu;
+    }
+    .head-adjust{
+        padding-top: 15px;
+        font-size: 25px;
+    }
+    .my-text {
+        width: 310px;
+    }
+    .btn-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .input-btn{
+        margin: 10px auto;
+        width: 200px;
+    }
+    .normal-btn{
+        margin: 10px auto;
+        width: 200px;
+    }
+    .connect-text {
+        font-size: 14px;
+      } 
+      .fab {
+          font-size: 11px;
+          padding: 15px
+      }
+      .fab-f{
+        padding: 15px 17px 15px 17px;
+      }
+}
+@media (max-width:767px){
+    body{
+        background-color: gree;
+    }
+    .my-nav{
+        background-color: white;
+        box-shadow: 0 5px 5px rgba(146, 147, 148, 0.5);
+        width: 100%;
+        left: 0px;
+    }
+    .my-text {
+        width: 545px;
+    }
+    .head-adjust {
+        padding-top: 75px;
+        font-size: 37px;
+    }
+    .input-btn {
+        margin: 10px auto;
+        width: 330px;
+        font-size: 15px;
+    }
+    .normal-btn {
+        margin: 10px auto;
+        width: 330px;
+    }
+    .connect-div{
+        margin-top: 2.5rem;
+    }
+    .connect-text {
+        font-size: 22px;
+    }
+    .fab {
+        font-size: 16px;
+        padding: 24px;
+    }
+    .fab-f {
+        font-size: 16px;
+        padding: 24px 27px 24px 27px;
+    }
+}
+@media (max-width:650px){
+    body{
+        background-color: re;
+    }
+    .my-text {
+        width: 530px;
+    }
+    .head-adjust {
+        font-size: 35px;
+    }
+    .my-arrow{
+        right: 3.8rem;
+        top: 27rem;
+    }
+}
+@media (max-width:550px){
+    body{
+        background-color: pi;
+    }
+    .connect-div {
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0;
+    }
+    .connect-text {
+        display: block;
+        padding-bottom: 2rem;
+    }
+    .normal-btn{
+        margin-bottom: 3rem;
+    }
+    .head-adjust {
+        padding-top: 95px;
+        font-size: 35px;
+        text-align: center;
+    }
+    .my-text {
+        width: 410px;
+    }
+    .my-arrow{
+        top: 27.3rem;
+    }
+    .flex-con{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 0;
+    }
+    .list-itm {
+        font-size: .7rem;
+    }
+    
+}
+@media (max-width:415px){
+    body{
+        background-color: blu;
+    }
+    .head-adjust {
+        padding-top: 95px;
+        font-size: 20px;
+    }
+    .input-btn {
+        width: 250px;
+        font-size: 12px;
+    }
+    .normal-btn {
+        width: 250px;
+    }
+    .my-text {
+        width: 320px;
+    }
+    .my-img-text {
+        left: 5rem;
+        top: 29rem;
+    }
+    .my-arrow {
+        right: 3.3rem;
+        top: 30.6rem;
+    }
+    .connect-text {
+        font-size: 16px;
+    }
+    .fab {
+        font-size: 16px;
+        padding: 15px;
+    }
+    .fab-f {
+        font-size: 16px;
+        padding: 15px 16px 15px 16px;
+    }
+    
+}
+@media (min-height: 822px) and (max-width:415px){
+    body{
+        background-color: brow;
+    }
+    .my-img-text {
+        top: 34rem;
+    }
+    .my-arrow {
+        right: 3rem;
+        top: 35.6rem;
+    }
+}
+@media (max-width:375px){
+    body{
+        background-color: lightcora;
+    }
+    .my-img-text {
+        left: 3rem;
+        top: 28rem;
+    }
+    .my-arrow {
+        right: 2.3rem;
+        top: 29rem;
+    }
+}
+@media (min-height: 810px) and (max-width:375px){
+    body{
+        background-color: purpl;
+    }
+    .my-img-text {
+        top: 34rem;
+    }
+    .my-arrow {
+        right: 3.3rem;
+        top: 35.5rem;
+    }
+}
+
+@media (max-width:361px){
+    body{
+        background-color: lightgree;
+    }
+    .my-img-text {
+        top: 26rem;
+        left: 3rem;
+    }
+    .my-arrow {
+        right: 2rem;
+        top: 27.5rem;
+    }
+    .fab {
+        font-size: 13px;
+        padding: 12px;
+    }
+    .fab-f {
+        font-size: 13px;
+        padding: 13px 16px 13px 16px;
+    }
+}
+@media (max-width:325px){
+    body{
+        background-color: lightseagree;
+    }
+    .my-text {
+        width: 265px;
+        font-size: .8rem;
+    }
+    .input-btn {
+        width: 210px;
+        font-size: 9px;
+    }
+    .normal-btn {
+        width: 210px;
+    }
+    .my-img-text {
+        top: 23rem;
+        font-size: .8rem;
+        left: 3rem;
+    }
+    .my-arrow {
+        right: 2rem;
+        top: 24.5rem;
+    }
+    .connect-text {
+        font-size: 12px;
+    }
+}
